@@ -2,34 +2,233 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e96fe1f-b445-442e-873b-ada5bf416227" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-144x144.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-144x144.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-192x192.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-192x192.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-36x36.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-36x36.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-48x48.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-48x48.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-72x72.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-72x72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/android-icon-96x96.png" afterPath="$PROJECT_DIR$/public/icons/android-icon-96x96.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-114x114.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-114x114.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-120x120.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-120x120.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-144x144.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-144x144.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-152x152.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-152x152.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-180x180.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-180x180.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-57x57.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-57x57.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-60x60.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-60x60.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-72x72.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-72x72.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-76x76.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-76x76.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon-precomposed.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon-precomposed.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/apple-icon.png" afterPath="$PROJECT_DIR$/public/icons/apple-icon.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/favicon-16x16.png" afterPath="$PROJECT_DIR$/public/icons/favicon-16x16.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/favicon-32x32.png" afterPath="$PROJECT_DIR$/public/icons/favicon-32x32.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/favicon-96x96.png" afterPath="$PROJECT_DIR$/public/icons/favicon-96x96.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/ms-icon-144x144.png" afterPath="$PROJECT_DIR$/public/icons/ms-icon-144x144.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/ms-icon-150x150.png" afterPath="$PROJECT_DIR$/public/icons/ms-icon-150x150.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/ms-icon-310x310.png" afterPath="$PROJECT_DIR$/public/icons/ms-icon-310x310.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/icons/ms-icon-70x70.png" afterPath="$PROJECT_DIR$/public/icons/ms-icon-70x70.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/pods/application/route.js" afterPath="$PROJECT_DIR$/app/application/route.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/pods/application/template.hbs" afterPath="$PROJECT_DIR$/app/application/template.hbs" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency-logo-dark.png" afterPath="$PROJECT_DIR$/public/img/agency-logo-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency-logo-full.png" afterPath="$PROJECT_DIR$/public/img/agency-logo-full.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency-logo-light.png" afterPath="$PROJECT_DIR$/public/img/agency-logo-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency1.jpg" afterPath="$PROJECT_DIR$/public/img/agency1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency2.png" afterPath="$PROJECT_DIR$/public/img/agency2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/agency4.jpg" afterPath="$PROJECT_DIR$/public/img/agency4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/app1.jpg" afterPath="$PROJECT_DIR$/public/img/app1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/app1.png" afterPath="$PROJECT_DIR$/public/img/app1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/app2.jpg" afterPath="$PROJECT_DIR$/public/img/app2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/app3.jpg" afterPath="$PROJECT_DIR$/public/img/app3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/app4.jpg" afterPath="$PROJECT_DIR$/public/img/app4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arch2.jpg" afterPath="$PROJECT_DIR$/public/img/arch2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arch3.jpg" afterPath="$PROJECT_DIR$/public/img/arch3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arch4.jpg" afterPath="$PROJECT_DIR$/public/img/arch4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arch5.jpg" afterPath="$PROJECT_DIR$/public/img/arch5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/arch6.jpg" afterPath="$PROJECT_DIR$/public/img/arch6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar1.png" afterPath="$PROJECT_DIR$/public/img/avatar1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar2.png" afterPath="$PROJECT_DIR$/public/img/avatar2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar3.png" afterPath="$PROJECT_DIR$/public/img/avatar3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar4.png" afterPath="$PROJECT_DIR$/public/img/avatar4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar5.png" afterPath="$PROJECT_DIR$/public/img/avatar5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/avatar6.png" afterPath="$PROJECT_DIR$/public/img/avatar6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-single-2.jpg" afterPath="$PROJECT_DIR$/public/img/blog-single-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-single-3.jpg" afterPath="$PROJECT_DIR$/public/img/blog-single-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-single-4.jpg" afterPath="$PROJECT_DIR$/public/img/blog-single-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/blog-single.jpg" afterPath="$PROJECT_DIR$/public/img/blog-single.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/burns1.jpg" afterPath="$PROJECT_DIR$/public/img/burns1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/c1.png" afterPath="$PROJECT_DIR$/public/img/c1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/c2.png" afterPath="$PROJECT_DIR$/public/img/c2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/c3.png" afterPath="$PROJECT_DIR$/public/img/c3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/c4.png" afterPath="$PROJECT_DIR$/public/img/c4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-1.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-2.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-3.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-4.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-5.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-6.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-7.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital-t-8.jpg" afterPath="$PROJECT_DIR$/public/img/capital-t-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital2.jpg" afterPath="$PROJECT_DIR$/public/img/capital2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital3.jpg" afterPath="$PROJECT_DIR$/public/img/capital3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital4.jpg" afterPath="$PROJECT_DIR$/public/img/capital4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/capital5.jpg" afterPath="$PROJECT_DIR$/public/img/capital5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/CODINGBLOCKS.png" afterPath="$PROJECT_DIR$/public/img/cb/CODINGBLOCKS.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/android_logo.png" afterPath="$PROJECT_DIR$/public/img/cb/android_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_anushray.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_anushray.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_arnav.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_arnav.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_badebhayia.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_badebhayia.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_manmohan.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_manmohan.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_prateek.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_prateek.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_priyanshu.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_priyanshu.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_rajesh.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_rajesh.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_saurav_tom.png" afterPath="$PROJECT_DIR$/public/img/cb/c_saurav_tom.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/c_sumeet.jpg" afterPath="$PROJECT_DIR$/public/img/cb/c_sumeet.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cb_marker.png" afterPath="$PROJECT_DIR$/public/img/cb/cb_marker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cb_tshirt_logo.png" afterPath="$PROJECT_DIR$/public/img/cb/cb_tshirt_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cblogo.png" afterPath="$PROJECT_DIR$/public/img/cb/cblogo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cblogo_big.png" afterPath="$PROJECT_DIR$/public/img/cb/cblogo_big.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cblogo_website.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cblogo_website.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cblogofull.png" afterPath="$PROJECT_DIR$/public/img/cb/cblogofull.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/channel_logo.png" afterPath="$PROJECT_DIR$/public/img/cb/channel_logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/code_kids.png" afterPath="$PROJECT_DIR$/public/img/cb/code_kids.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/coding_mascot_love.jpg" afterPath="$PROJECT_DIR$/public/img/cb/coding_mascot_love.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cover/cover1.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cover/cover1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cover/cover2.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cover/cover2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cover/cover3.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cover/cover3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cover/cover4.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cover/cover4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cover/cover5.jpg" afterPath="$PROJECT_DIR$/public/img/cb/cover/cover5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/cpp.png" afterPath="$PROJECT_DIR$/public/img/cb/cpp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/final_step.png" afterPath="$PROJECT_DIR$/public/img/cb/final_step.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/game_dev.png" afterPath="$PROJECT_DIR$/public/img/cb/game_dev.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/java.png" afterPath="$PROJECT_DIR$/public/img/cb/java.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/logos.jpg" afterPath="$PROJECT_DIR$/public/img/cb/logos.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/python_djang.png" afterPath="$PROJECT_DIR$/public/img/cb/python_djang.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_android.png" afterPath="$PROJECT_DIR$/public/img/cb/r_android.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_cpp.png" afterPath="$PROJECT_DIR$/public/img/cb/r_cpp.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_final.png" afterPath="$PROJECT_DIR$/public/img/cb/r_final.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_game.png" afterPath="$PROJECT_DIR$/public/img/cb/r_game.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_java.png" afterPath="$PROJECT_DIR$/public/img/cb/r_java.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_kids.png" afterPath="$PROJECT_DIR$/public/img/cb/r_kids.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_machine.png" afterPath="$PROJECT_DIR$/public/img/cb/r_machine.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_node.png" afterPath="$PROJECT_DIR$/public/img/cb/r_node.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/r_python.png" afterPath="$PROJECT_DIR$/public/img/cb/r_python.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/bhavyaa.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/bhavyaa.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/harsh_m.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/harsh_m.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/komal_gupta.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/komal_gupta.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/manish_m.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/manish_m.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/piyush.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/piyush.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/student/prabhjot.jpg" afterPath="$PROJECT_DIR$/public/img/cb/student/prabhjot.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cb/web_d.png" afterPath="$PROJECT_DIR$/public/img/cb/web_d.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cblogo_big.png" afterPath="$PROJECT_DIR$/public/img/cblogo_big.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cblogo_big_white.png" afterPath="$PROJECT_DIR$/public/img/cblogo_big_white.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover11.jpg" afterPath="$PROJECT_DIR$/public/img/cover11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover12.jpg" afterPath="$PROJECT_DIR$/public/img/cover12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover13.jpg" afterPath="$PROJECT_DIR$/public/img/cover13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover14.jpg" afterPath="$PROJECT_DIR$/public/img/cover14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover15.jpg" afterPath="$PROJECT_DIR$/public/img/cover15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover16.jpg" afterPath="$PROJECT_DIR$/public/img/cover16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover7.jpg" afterPath="$PROJECT_DIR$/public/img/cover7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/cover8.jpg" afterPath="$PROJECT_DIR$/public/img/cover8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/event1.jpg" afterPath="$PROJECT_DIR$/public/img/event1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fashion1.jpg" afterPath="$PROJECT_DIR$/public/img/fashion1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fashion2.jpg" afterPath="$PROJECT_DIR$/public/img/fashion2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fashion3.jpg" afterPath="$PROJECT_DIR$/public/img/fashion3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fashion4.jpg" afterPath="$PROJECT_DIR$/public/img/fashion4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fashion5.jpg" afterPath="$PROJECT_DIR$/public/img/fashion5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness1.png" afterPath="$PROJECT_DIR$/public/img/fitness1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness2.jpg" afterPath="$PROJECT_DIR$/public/img/fitness2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness3.jpg" afterPath="$PROJECT_DIR$/public/img/fitness3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness4.jpg" afterPath="$PROJECT_DIR$/public/img/fitness4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness5.jpg" afterPath="$PROJECT_DIR$/public/img/fitness5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/fitness6.jpg" afterPath="$PROJECT_DIR$/public/img/fitness6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/hero1.jpg" afterPath="$PROJECT_DIR$/public/img/hero1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-1.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-1.png" afterPath="$PROJECT_DIR$/public/img/home-2-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-2.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-3.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-4.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-5.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-6.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-7.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-8.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-2-9.jpg" afterPath="$PROJECT_DIR$/public/img/home-2-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home-4-1.jpg" afterPath="$PROJECT_DIR$/public/img/home-4-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home1.jpg" afterPath="$PROJECT_DIR$/public/img/home1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home10.jpg" afterPath="$PROJECT_DIR$/public/img/home10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home11.jpg" afterPath="$PROJECT_DIR$/public/img/home11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home12.jpg" afterPath="$PROJECT_DIR$/public/img/home12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home13.jpg" afterPath="$PROJECT_DIR$/public/img/home13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home14.jpg" afterPath="$PROJECT_DIR$/public/img/home14.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home15.jpg" afterPath="$PROJECT_DIR$/public/img/home15.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home16.jpg" afterPath="$PROJECT_DIR$/public/img/home16.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home17.jpg" afterPath="$PROJECT_DIR$/public/img/home17.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home18.jpg" afterPath="$PROJECT_DIR$/public/img/home18.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home19.jpg" afterPath="$PROJECT_DIR$/public/img/home19.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home2.jpg" afterPath="$PROJECT_DIR$/public/img/home2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home20.jpg" afterPath="$PROJECT_DIR$/public/img/home20.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home21.jpg" afterPath="$PROJECT_DIR$/public/img/home21.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home22.jpg" afterPath="$PROJECT_DIR$/public/img/home22.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home23.jpg" afterPath="$PROJECT_DIR$/public/img/home23.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home24.jpg" afterPath="$PROJECT_DIR$/public/img/home24.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home3.jpg" afterPath="$PROJECT_DIR$/public/img/home3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home4.jpg" afterPath="$PROJECT_DIR$/public/img/home4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home5.jpg" afterPath="$PROJECT_DIR$/public/img/home5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home6.jpg" afterPath="$PROJECT_DIR$/public/img/home6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home7.jpg" afterPath="$PROJECT_DIR$/public/img/home7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/home8.jpg" afterPath="$PROJECT_DIR$/public/img/home8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/intro1.jpg" afterPath="$PROJECT_DIR$/public/img/intro1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/items.jpg" afterPath="$PROJECT_DIR$/public/img/items.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/items2.jpg" afterPath="$PROJECT_DIR$/public/img/items2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/items3.jpg" afterPath="$PROJECT_DIR$/public/img/items3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/l1.png" afterPath="$PROJECT_DIR$/public/img/l1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/l2.png" afterPath="$PROJECT_DIR$/public/img/l2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/l3.png" afterPath="$PROJECT_DIR$/public/img/l3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/l4.png" afterPath="$PROJECT_DIR$/public/img/l4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/lightbox/close.png" afterPath="$PROJECT_DIR$/public/img/lightbox/close.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/lightbox/loading.gif" afterPath="$PROJECT_DIR$/public/img/lightbox/loading.gif" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/lightbox/next.png" afterPath="$PROJECT_DIR$/public/img/lightbox/next.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/lightbox/prev.png" afterPath="$PROJECT_DIR$/public/img/lightbox/prev.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo-dark.png" afterPath="$PROJECT_DIR$/public/img/logo-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo-light.png" afterPath="$PROJECT_DIR$/public/img/logo-light.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/logo-p-dark.png" afterPath="$PROJECT_DIR$/public/img/logo-p-dark.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/mapmarker.png" afterPath="$PROJECT_DIR$/public/img/mapmarker.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/modal1.jpg" afterPath="$PROJECT_DIR$/public/img/modal1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/modal2.jpg" afterPath="$PROJECT_DIR$/public/img/modal2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/music1.jpg" afterPath="$PROJECT_DIR$/public/img/music1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/music2.jpg" afterPath="$PROJECT_DIR$/public/img/music2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nav-dark.jpg" afterPath="$PROJECT_DIR$/public/img/nav-dark.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nav-info.jpg" afterPath="$PROJECT_DIR$/public/img/nav-info.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nav-light.jpg" afterPath="$PROJECT_DIR$/public/img/nav-light.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/nav-trans.jpg" afterPath="$PROJECT_DIR$/public/img/nav-trans.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/page-coming-soon.jpg" afterPath="$PROJECT_DIR$/public/img/page-coming-soon.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/page-register.jpg" afterPath="$PROJECT_DIR$/public/img/page-register.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/phone2.png" afterPath="$PROJECT_DIR$/public/img/phone2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/phot1.jpg" afterPath="$PROJECT_DIR$/public/img/phot1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/phot2.jpg" afterPath="$PROJECT_DIR$/public/img/phot2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/phot3.jpg" afterPath="$PROJECT_DIR$/public/img/phot3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop1.jpg" afterPath="$PROJECT_DIR$/public/img/prop1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop2.jpg" afterPath="$PROJECT_DIR$/public/img/prop2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop3.jpg" afterPath="$PROJECT_DIR$/public/img/prop3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop4.jpg" afterPath="$PROJECT_DIR$/public/img/prop4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop5.jpg" afterPath="$PROJECT_DIR$/public/img/prop5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/prop6.jpg" afterPath="$PROJECT_DIR$/public/img/prop6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto1.jpg" afterPath="$PROJECT_DIR$/public/img/resto1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto2.jpg" afterPath="$PROJECT_DIR$/public/img/resto2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto3.jpg" afterPath="$PROJECT_DIR$/public/img/resto3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto4.jpg" afterPath="$PROJECT_DIR$/public/img/resto4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto5.jpg" afterPath="$PROJECT_DIR$/public/img/resto5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/resto6.jpg" afterPath="$PROJECT_DIR$/public/img/resto6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/screenshot.jpg" afterPath="$PROJECT_DIR$/public/img/screenshot.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/screenshot2.jpg" afterPath="$PROJECT_DIR$/public/img/screenshot2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/screenshot3.jpg" afterPath="$PROJECT_DIR$/public/img/screenshot3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-1.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-10.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-10.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-11.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-11.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-12.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-12.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-13.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-13.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-2.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-3.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-4.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-4.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-4_1.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-4_1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-4_2.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-4_2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-5.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-5.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-6.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-6.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-7.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-7.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-8.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-8.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-product-9.jpg" afterPath="$PROJECT_DIR$/public/img/shop-product-9.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-widget-1.png" afterPath="$PROJECT_DIR$/public/img/shop-widget-1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/shop-widget-2.png" afterPath="$PROJECT_DIR$/public/img/shop-widget-2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/signature.png" afterPath="$PROJECT_DIR$/public/img/signature.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/small1.jpg" afterPath="$PROJECT_DIR$/public/img/small1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/small2.jpg" afterPath="$PROJECT_DIR$/public/img/small2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/stars.png" afterPath="$PROJECT_DIR$/public/img/stars.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-1.jpg" afterPath="$PROJECT_DIR$/public/img/team-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-2.jpg" afterPath="$PROJECT_DIR$/public/img/team-2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/team-3.jpg" afterPath="$PROJECT_DIR$/public/img/team-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/thumb-video-3.jpg" afterPath="$PROJECT_DIR$/public/img/thumb-video-3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/variant-logo.png" afterPath="$PROJECT_DIR$/public/img/variant-logo.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/vent1.png" afterPath="$PROJECT_DIR$/public/img/vent1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/vent2.png" afterPath="$PROJECT_DIR$/public/img/vent2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/vent3.jpg" afterPath="$PROJECT_DIR$/public/img/vent3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/wide-1.jpg" afterPath="$PROJECT_DIR$/public/img/wide-1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/wine1.png" afterPath="$PROJECT_DIR$/public/img/wine1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/img/wine16.jpg" afterPath="$PROJECT_DIR$/public/img/wine16.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/pods/application/template.hbs" afterPath="$PROJECT_DIR$/app/pods/application/template.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -57,13 +256,34 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="template.hbs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/pods/application/template.hbs">
+      <file leaf-file-name="template.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/application/template.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2010">
               <caret line="134" column="6" lean-forward="false" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/img/app1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app3.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/img/app3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="arch3.jpg" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/img/arch3.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -100,38 +320,6 @@
       </file>
       <file leaf-file-name="google4b8d2632c5670d4a.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google4b8d2632c5670d4a.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="router.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/router.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="theme.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/theme.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/styles/bootstrap.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -292,10 +480,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="pods" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="application" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -319,6 +503,7 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/app/application" />
       <recent name="$PROJECT_DIR$/app/pods" />
       <recent name="$PROJECT_DIR$/app/styles" />
     </key>
@@ -401,12 +586,12 @@
       <workItem from="1484974505237" duration="941000" />
       <workItem from="1484983351088" duration="1430000" />
       <workItem from="1484997032749" duration="1528000" />
-      <workItem from="1484999344879" duration="570000" />
+      <workItem from="1484999344879" duration="724000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11783000" />
+    <option name="totallyTimeSpent" value="11937000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
@@ -818,12 +1003,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/pods/application/template.hbs">
+    <entry file="file://$PROJECT_DIR$/app/application/template.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2010">
           <caret line="134" column="6" lean-forward="false" selection-start-line="134" selection-start-column="6" selection-end-line="134" selection-end-column="6" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/app1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/app3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/img/arch3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>
