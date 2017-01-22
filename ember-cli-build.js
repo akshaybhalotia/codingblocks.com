@@ -7,13 +7,13 @@ module.exports = function(defaults) {
     // Add options here
   });
 
-  // app.import('vendor/jquery.min.js');
-  // app.import('vendor/bootstrap.min.js');
-  // app.import('vendor/flexslider.min.js');
-  // app.import('vendor/parallax.js');
-  // app.import('vendor/scripts.js');
-  // app.import('vendor/smooth-scroll.min.js');
-  // app.import('vendor/twitterfetcher.min.js');
+  app.import('vendor/jquery.min.js');
+  app.import('vendor/bootstrap.min.js');
+  app.import('vendor/jquery.flexslider-min.js');
+  app.import('vendor/parallax.js');
+  app.import('vendor/scripts.js');
+  app.import('vendor/smooth-scroll.min.js');
+  app.import('vendor/twitterfetcher.min.js');
 
   // Use `app.import` to add additional libraries to the generated
   // output files.
