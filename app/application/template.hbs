@@ -2,9 +2,9 @@
   <nav>
     <div class="nav-bar">
       <div class="module left">
-        <a href="index.html">
-          <img class="logo logo-light" alt="Foundry" src="img/logo-light.png">
-          <div class="vnu"><img class="logo logo-dark" alt="Foundry" src="img/cb/cblogo.png"></div>
+        <a href="/">
+          <img class="logo logo-light" alt="Foundry" src="/img/logo-light.png">
+          <div class="vnu"><img class="logo logo-dark" alt="Foundry" src="/img/cb/cblogo.png"></div>
         </a>
       </div>
       <div class="module widget-handle mobile-toggle right visible-sm visible-xs">
@@ -35,11 +35,11 @@
 		                                        FUNDAMENTALS</span>
                 <ul>
                   <li>
-                    <a href="/courses/launchpad.html">
-                      LAUNCHPAD (C++)</a>
+                    {{#link-to 'courses.launchpad'}}
+                      LAUNCHPAD (C++){{/link-to}}
                   </li><li class="vpf">
-                  <a href="/courses/crux.html">
-                    CRUX (JAVA)</a>
+                  {{#link-to 'courses.crux'}}
+                    CRUX (JAVA){{/link-to}}
                 </li>
                 </ul>
               </li><li class="has-dropdown toggle-sub vpf">

@@ -7,6 +7,10 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('courses', function() {
+    this.route('crux');
+    this.route('launchpad');
+  });
 });
 
 export default Router;
