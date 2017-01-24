@@ -10,7 +10,9 @@ Router.map(function() {
   this.route('courses', function() {
     this.route('crux');
     this.route('launchpad');
+    this.route('pandora');
   });
+  this.route('sign-up');
 });
 
 export default Router;

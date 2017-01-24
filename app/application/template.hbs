@@ -23,11 +23,11 @@
 		                                        KIDS</span>
                   <ul>
                     <li>
-                      <a href="#">
-                        CODE4KIDS</a>
+                      {{#link-to 'sign-up'}}
+                        CODE4KIDS{{/link-to}}
                     </li><li class="vpf">
-                    <a href="#">
-                      MATHGEEKS</a>
+                    {{#link-to 'sign-up'}}
+                      MATHGEEKS{{/link-to}}
                   </li>
                   </ul>
                 </li><li class="has-dropdown toggle-sub vpf">
@@ -47,14 +47,13 @@
 		                                        DEVELOPMENT</span>
                 <ul>
                   <li>
-                    <a href="/courses/pandora.html">
-                      PANDORA (ANDROID)</a>
+                    {{#link-to 'courses.pandora'}}
+                      PANDORA (ANDROID){{/link-to}}
                   </li><li class="vpf">
-                  <a href="#">
-                    ELIXIR (WEB NODEJS)</a>
-                </li><li class="vpf">
-                  <a href="#">
-                    DJANGO (WEB PYTHON)</a>
+                  {{#link-to 'sign-up'}}
+                    ELIXIR (WEB NODEJS){{/link-to}}
+                </li><li class="vpf">{{#link-to 'sign-up'}}
+                    DJANGO (WEB PYTHON){{/link-to}}
                 </li>
                 </ul>
               </li><li class="has-dropdown vpf">
@@ -62,11 +61,11 @@
 		                                        ADVANCED</span>
                 <ul>
                   <li>
-                    <a href="#">
-                      PERCEPTRON(MACHINE LEARNING)</a>
+                    {{#link-to 'sign-up'}}
+                      PERCEPTRON(MACHINE LEARNING){{/link-to}}
                   </li><li class="vpf">
-                  <a href="#">
-                    CANVAS(GAME DEV)</a>
+                  {{#link-to 'sign-up'}}
+                    CANVAS(GAME DEV){{/link-to}}
                 </li>
                 </ul>
               </li>
@@ -82,15 +81,15 @@
                       <span class="title">ABOUT US</span>
                     </li>
                     <li>
-                      <a href="#home_why_coding" class="inner-link" target="_self">WHY CODING BLOCKS</a>
+                      {{#link-to 'index' class="inner-link" }}WHY CODING BLOCKS{{/link-to}}
                     </li><li class="vpf">
-                    <a href="#home_team" class="inner-link" target="_self">OUR TEAM</a>
+                    {{#link-to 'index' class="inner-link" }}OUR TEAM{{/link-to}}
                   </li><li class="vpf">
-                    <a href="#home_numbers">NUMBERS </a>
+                    {{#link-to 'index'}}NUMBERS{{/link-to}}
                   </li><li class="vpf">
-                    <a href="#home_testimonials">TESTIMONIALS</a>
+                    {{#link-to "index"}}TESTIMONIALS{{/link-to}}
                   </li><li class="vpf">
-                    <a href="#home_map">CONTACT</a>
+                    {{#link-to "index"}}>CONTACT{{/link-to}}
                   </li>
                   </ul>
                 </li>
@@ -109,7 +108,7 @@
               </ul>
             </li>
             <li>
-              <a href="/signup/gform.html">Sign Up</a>
+              {{#link-to 'sign-up'}}Sign Up{{/link-to}}
             </li>
             <li>
               <a href="http://blog.codingblocks.xyz">Blog</a>
